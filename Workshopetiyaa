@@ -1,0 +1,34 @@
+# workshopetiya
+#
+kisiadSoyad = list()
+for x in range(11):
+    kisiadSoyad=input("adı soyadı giriniz")
+    kisiadSoyadList.append(kisiadSoyad)
+for kisi in kisiadSoyadList:
+    print(kisi)
+    
+  
+   
+
+
+  
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+ 
+
+
